@@ -1,6 +1,6 @@
 
 section.io Documentation
-======================
+========================
 
 .. toctree::
    :maxdepth: 1
